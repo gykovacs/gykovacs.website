@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 ---
 
 <img src="{{site.url}}/images/gykovacs.jpg" width=15%>
