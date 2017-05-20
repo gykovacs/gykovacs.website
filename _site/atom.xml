@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Gyorgy Kovacs</title>
+ <link href="https://gykovacs.github.io/atom.xml" rel="self"/>
+ <link href="https://gykovacs.github.io/"/>
+ <updated>2017-05-20T19:05:53+02:00</updated>
+ <id>https://gykovacs.github.io</id>
+ <author>
+   <name>Gyorgy Kovacs</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

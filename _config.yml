@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            'Gyorgy Kovacs'
+tagline:          'Gyorgy Kovacs'
+description:	   'PhD in Informatics'
+url:              https://gykovacs.github.io
+baseurl:          /
+
+author:
+  name:           'Gyorgy Kovacs'
+  url:            https://gykovacs.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/gykovacs
+
+scholar:
+    style: apa-note-num
+    bibliography: refs.bib
+    bibliography_template: bibtemplate
+    replace_strings: true
+    query: "@*"
+    
