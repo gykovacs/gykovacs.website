@@ -10,7 +10,7 @@ title: Home
     <th></th>
   </thead>
   <tr>
-  <td align="left"> <img src="{{site.url}}/downloads/gykovacs.jpg" width=100%> </td>
+  <td align="left"> <img src="{{site.url}}/images/gykovacs.jpg" width=100%> </td>
   <td> </td>
   <td valign="top"> I define myself as a data scientist grown up in the field of image processing. This site plays the role of an online CV and a place where some codes related to my research and hobby projects are made available for download. If you have any questions or comments related to the things I shared, feel free to contact me.
 <br>
