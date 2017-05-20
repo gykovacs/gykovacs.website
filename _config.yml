@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            'Gyorgy Kovacs'
-tagline:          'Gyorgy Kovacs'
+title:            'György Kovács'
+tagline:          'György Kovács'
 description:	   'PhD in Informatics'
 url:              https://gykovacs.github.io
 baseurl:          /
 
 author:
-  name:           'Gyorgy Kovacs'
+  name:           'György Kovács'
   url:            https://gykovacs.github.io
 
 paginate:         5
@@ -26,7 +26,7 @@ github:
   repo:           https://github.com/gykovacs
 
 scholar:
-    style: apa-note-num
+    style: _layouts/apa-note-num
     bibliography: refs.bib
     bibliography_template: bibtemplate
     replace_strings: true

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Gyorgy Kovacs</title>
+ <title>György Kovács</title>
  <link href="https://gykovacs.github.io/atom.xml" rel="self"/>
  <link href="https://gykovacs.github.io/"/>
- <updated>2017-05-20T19:24:56+02:00</updated>
+ <updated>2017-05-20T20:22:49+02:00</updated>
  <id>https://gykovacs.github.io</id>
  <author>
-   <name>Gyorgy Kovacs</name>
+   <name>György Kovács</name>
    <email></email>
  </author>
 
