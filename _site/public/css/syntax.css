@@ -141,7 +141,7 @@
     border-radius: 5px;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 24em) {
 .button0 {
     background-color: #4CAF50;
     border: none;
