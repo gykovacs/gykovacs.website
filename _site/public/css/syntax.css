@@ -64,6 +64,7 @@
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
 
+@media (min-width: 48em) {
 .button0 {
     background-color: #4CAF50;
     border: none;
@@ -137,6 +138,7 @@
     margin: 2px 1px;
     cursor: pointer;
     border-radius: 5px;
+}
 }
 
 @media (min-width: 16em) {
