@@ -66,8 +66,7 @@
 
 
 
-@media (min-width: 16em) {
-  .button0 {
+.button0 {
     background-color: #4CAF50;
     border: none;
     color: white;
@@ -140,7 +139,6 @@
     margin: 2px 1px;
     cursor: pointer;
     border-radius: 5px;
-}
 }
 
 @media (min-width: 48em) {
