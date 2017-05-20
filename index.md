@@ -3,21 +3,11 @@ layout: page
 title: Home
 ---
 
-<table>
-  <thead>
-    <th style="width:9%"></th>
-    <th style="width:1%"></th>
-    <th></th>
-  </thead>
-  <tr>
-  <td align="left"> <img src="{{site.url}}/images/gykovacs.jpg" width=100%> </td>
-  <td> </td>
-  <td valign="top"> I define myself as a data scientist grown up in the field of image processing. This site plays the role of an online CV and a place where some codes related to my research and hobby projects are made available for download. If you have any questions or comments related to the things I shared, feel free to contact me.
+<img src="{{site.url}}/images/gykovacs.jpg" width=15%>
+
+I define myself as a data scientist grown up in the field of image processing. This site plays the role of an online CV and a place where some codes related to my research and hobby projects are made available for download. If you have any questions or comments related to the things I shared, feel free to contact me.
 <br>
-    My detailed CV can be downloaded at: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsNXV1d3BqUlF4MjQ"> CV_GyorgyKovacs.pdf</a>.
-    </td>
-  </tr>
-</table>
+My detailed CV can be downloaded at: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsNXV1d3BqUlF4MjQ"> CV_GyorgyKovacs.pdf</a>.
 
 ### Main Scientific Interests
 
