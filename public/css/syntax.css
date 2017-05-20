@@ -64,82 +64,7 @@
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
 
-@media (min-width: 48em) {
-.button0 {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 4px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    font-weight: bold;
-    margin: 2px 1px;
-    cursor: pointer;
-    border-radius: 5px;
-}
 
-.button1 {
-    background-color: #FF6600;
-    border: none;
-    color: white;
-    padding: 4px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    font-weight: bold;
-    margin: 2px 1px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.button2 {
-    background-color: #000099;
-    border: none;
-    color: white;
-    padding: 4px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    font-weight: bold;
-    margin: 2px 1px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.button3 {
-    background-color: #777777;
-    border: none;
-    color: white;
-    padding: 4px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    font-weight: bold;
-    margin: 2px 1px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.button4 {
-    background-color: #DC143C;
-    border: none;
-    color: white;
-    padding: 4px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    font-weight: bold;
-    margin: 2px 1px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-}
 
 @media (min-width: 16em) {
   .button0 {
@@ -218,3 +143,79 @@
 }
 }
 
+@media (min-width: 48em) {
+.button0 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button1 {
+    background-color: #FF6600;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button2 {
+    background-color: #000099;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button3 {
+    background-color: #777777;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button4 {
+    background-color: #DC143C;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+}
