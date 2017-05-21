@@ -345,7 +345,7 @@ a.sidebar-nav-item:focus {
     border-radius: 5px;
 }
 
-.buttonnormal {
+.button5 {
     /*background-color: #DC143C;*/
     background-color: #bdbdbd;
     border: none;
@@ -436,8 +436,8 @@ a.sidebar-nav-item:focus {
         cursor: pointer;
         border-radius: 5px;
     }
-    
-    .buttonnormal {
+
+    .button5 {
         /*background-color: #DC143C;*/
         background-color: #bdbdbd;
         border: none;
