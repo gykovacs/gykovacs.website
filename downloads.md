@@ -40,6 +40,7 @@ The implementation of the method described in {% cite j006 %} is available in bi
 {% bibliography --cited %}
 
 ----
+----
 
 ## Sample codes for books on parallel and OpenCL programming
 
