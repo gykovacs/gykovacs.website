@@ -39,4 +39,12 @@ The implementation of the method described in {% cite j006 %} is available in bi
 
 {% bibliography --cited %}
 
+## Sample codes for books on parallel and OpenCL programming
+
+Sample codes for the books {% cite b00 %}, {% cite b01 %}, {% cite b02 %} are available below:
+
+* Párhuzamos programozási eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: [combined-sample-codes.tar.gz]({{site.url}}/downloads/combined-sample-codes.tar.gz)
+* OpenCL: [opencl-sample-codes.tar.gz]({{site.url}}/downloads/opencl-sample-codes.tar.gz)
+
+{% bibliography --cited %}
 
