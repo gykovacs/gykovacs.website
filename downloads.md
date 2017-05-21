@@ -45,8 +45,8 @@ The implementation of the method described in {% cite j006 %} is available in bi
 
 Sample codes for the books {% cite b0 %}, {% cite b1 %}, {% cite b2 %} are available below:
 
-* Párhuzamos programozási eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: [combined-sample-codes.tar.gz]({{site.url}}/downloads/combined-sample-codes.tar.gz)
-* OpenCL: [opencl-sample-codes.tar.gz]({{site.url}}/downloads/opencl-sample-codes.tar.gz)
+* Párhuzamos prog. eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: <a href="{{site.url}}/downloads/combined-sample-codes.tar.gz"><input type='button' class='button4' value='combined-sample-codes.tar.gz'/></a> 
+* OpenCL: <a href="{{site.url}}/downloads/opencl-sample-codes.tar.gz"><input type='button' class='button4' value='opencl-sample-codes.tar.gz'/></a> 
 
 ### References
 
