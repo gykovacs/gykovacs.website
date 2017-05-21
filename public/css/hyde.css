@@ -331,7 +331,7 @@ a.sidebar-nav-item:focus {
 
 .button4 {
     /*background-color: #DC143C;*/
-    background-color: #bdbdbd;
+    background-color: #65bdde;
     border: none;
     color: white;
     padding: 4px 8px;
@@ -347,7 +347,7 @@ a.sidebar-nav-item:focus {
 
 .button5 {
     /*background-color: #DC143C;*/
-    background-color: #bdbdbd;
+    background-color: #65bdde;
     border: none;
     color: white;
     padding: 4px 8px;
@@ -439,14 +439,14 @@ a.sidebar-nav-item:focus {
 
     .button5 {
         /*background-color: #DC143C;*/
-        background-color: #bdbdbd;
+        background-color: #65bdde;
         border: none;
         color: white;
         padding: 4px 8px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 10px;
+        font-size: 14px;
         font-weight: bold;
         margin: 2px 1px;
         cursor: pointer;
