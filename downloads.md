@@ -32,14 +32,13 @@ To have an impression on what the software does, see the following input and out
 
 The implementation of the method described in {% cite j006 %} is available in binary format compiled for Ubuntu 17.04 AMD64. The usage of the software is included in the README files:
 
-* Ubuntu 17.04 AMD64: [vessel-2017.05.10-Linux.deb]({{site.url}}/downloads/vessel-2017.05.10-Linux.deb)
-* Ubuntu 17.04 AMD64: [vessel-2017.05.10-Linux.tar.gz]({{site.url}}/downloads/vessel-2017.05.10-Linux.tar.gz)
+* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.deb"><input type='button' class='button4' value='vessel-2017.05.10-Linux.deb'/></a>
+* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.tar.gz"><input type='button' class='button4' value='vessel-2017.05.10-Linux.tar.gz'/></a>
 
 ### References
 
 {% bibliography --cited %}
 
-----
 ----
 
 ## Sample codes for books on parallel and OpenCL programming
