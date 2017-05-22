@@ -32,8 +32,8 @@ To have an impression on what the software does, see the following input and out
 
 The implementation of the method described in {% cite j006 %} is available in binary format compiled for Ubuntu 17.04 AMD64. The usage of the software is included in the README files:
 
-* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.deb"><input type='button' class='button4' value='vessel-2017.05.10-Linux.deb'/></a>
-* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.tar.gz"><input type='button' class='button4' value='vessel-2017.05.10-Linux.tar.gz'/></a>
+* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.deb"><input type='button' class='button5' value='vessel-2017.05.10-Linux.deb'/></a>
+* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.tar.gz"><input type='button' class='button5' value='vessel-2017.05.10-Linux.tar.gz'/></a>
 
 ### References
 
@@ -45,8 +45,8 @@ The implementation of the method described in {% cite j006 %} is available in bi
 
 Sample codes for the books {% cite b0 %}, {% cite b1 %}, {% cite b2 %} are available below:
 
-* Párhuzamos prog. eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: <a href="{{site.url}}/downloads/combined-sample-codes.tar.gz"><input type='button' class='button4' value='combined-sample-codes.tar.gz'/></a> 
-* OpenCL: <a href="{{site.url}}/downloads/opencl-sample-codes.tar.gz"><input type='button' class='button4' value='opencl-sample-codes.tar.gz'/></a> 
+* Párhuzamos prog. eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: <a href="{{site.url}}/downloads/combined-sample-codes.tar.gz"><input type='button' class='button5' value='combined-sample-codes.tar.gz'/></a> 
+* OpenCL: <a href="{{site.url}}/downloads/opencl-sample-codes.tar.gz"><input type='button' class='button5' value='opencl-sample-codes.tar.gz'/></a> 
 
 ### References
 
