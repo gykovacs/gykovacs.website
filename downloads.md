@@ -32,8 +32,8 @@ To have an impression on what the software does, see the following input and out
 
 The implementation of the method described in {% cite j006 %} is available in binary format compiled for Ubuntu 17.04 AMD64. The usage of the software is included in the README files:
 
-* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.deb"><input type='button' class='button5' value='vessel-2017.05.10-Linux.deb'/></a>
-* Ubuntu 17.04 x64: <a href="{{site.url}}/downloads/vessel-2017.05.10-Linux.tar.gz"><input type='button' class='button5' value='vessel-2017.05.10-Linux.tar.gz'/></a>
+* Ubuntu 17.04 x64: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsR3pWb1ZHMlVVZk0"><input type='button' class='button5' value='vessel-2017.05.10-Linux.deb'/></a>
+* Ubuntu 17.04 x64: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsRm5PSTRocnZjY1E"><input type='button' class='button5' value='vessel-2017.05.10-Linux.tar.gz'/></a>
 
 ### References
 
@@ -45,10 +45,26 @@ The implementation of the method described in {% cite j006 %} is available in bi
 
 Sample codes for the books {% cite b0 %}, {% cite b1 %}, {% cite b2 %} are available below:
 
-* Párhuzamos prog. eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: <a href="{{site.url}}/downloads/combined-sample-codes.tar.gz"><input type='button' class='button5' value='combined-sample-codes.tar.gz'/></a> 
-* OpenCL: <a href="{{site.url}}/downloads/opencl-sample-codes.tar.gz"><input type='button' class='button5' value='opencl-sample-codes.tar.gz'/></a> 
+* Párhuzamos prog. eszközök és összetett alkalmazásaik [Parallel programming and its complex applications]: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsbUJBYndiWEFiaDQ"><input type='button' class='button5' value='combined-sample-codes.tar.gz'/></a> 
+* OpenCL: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsMjZXWmpsVkpHSjg"><input type='button' class='button5' value='opencl-sample-codes.tar.gz'/></a> 
 
 ### References
 
 {% bibliography --cited %}
 
+----
+
+## openip - The open source image processing library
+
+### Introduction
+
+The openip open source image processing library is a lightweight image processin library for academic and industrial applications. Detailed descriptions can be found in the paper {% cite c010 %}.
+
+### Files
+
+* Source code: <a href="https://drive.google.com/open?id=0B3E8L0dtBKcsV21JQXFmTkw4RWM"><input type='button' class='button5' value='openip.release.src.tar.gz'/></a>
+* GitHub: <a href="https://github.com/gykovacs/openip">https://github.com/gykovacs/openip</a>
+
+### References
+
+{% bibliography --cited %}
