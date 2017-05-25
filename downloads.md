@@ -3,7 +3,7 @@ layout: page
 title: Downloads
 ---
 
-## Vessel segmentation
+## <a name="vessel-segmentation"></a>Vessel segmentation
 
 ### Introduction
 
@@ -41,7 +41,7 @@ The implementation of the method described in {% cite j006 %} is available in bi
 
 ----
 
-## Sample codes for books on parallel and OpenCL programming
+## <a name="sample-codes-for-books-on-parallel-and-opencl-programming"></a>Sample codes for books on parallel and OpenCL programming
 
 Sample codes for the books {% cite b0 %}, {% cite b1 %}, {% cite b2 %} are available below:
 
@@ -54,7 +54,7 @@ Sample codes for the books {% cite b0 %}, {% cite b1 %}, {% cite b2 %} are avail
 
 ----
 
-## openip - The open source image processing library
+## <a name="openip_-_the-open-source-image-processing-library"></a>openip - The open source image processing library
 
 ### Introduction
 
