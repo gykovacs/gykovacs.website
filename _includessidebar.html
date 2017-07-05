@@ -1,0 +1,29 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        {{ site.title }}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == "/downloads/" %} active{% endif %}" href="/downloads/">Downloads</a>
+      <a class="sidebar-nav-item{% if page.url == "/publications/" %} active{% endif %}" href="/publications/">Full list of publications</a>
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/0B3E8L0dtBKcsUllkTUpHY09KdWs/view?usp=drivesdk">Download detailed CV in PDF</a>
+      <a class="sidebar-nav-item" href="http://gykovacsblog.wordpress.com">Blog</a>
+
+      <span class="sidebar-nav-item">Jekyll Hyde, Currently v{{ site.version }}</span>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> 
+  </div>
+</div>
